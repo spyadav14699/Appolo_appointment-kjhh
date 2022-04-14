@@ -34,5 +34,4 @@ Now go to [localhost:3000](http://localhost:3000) in your browser.
 
 
 
-<!-- Nice to have features -->
-## Due to paucity of some time, had to take some other help. but it felt good
+
