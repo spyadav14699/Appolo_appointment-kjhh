@@ -1,0 +1,64 @@
+
+   .sidenav {
+    
+    gap: 100px;
+    width: 100%; 
+    justify-content: space-between;
+    margin-top: -3rem;
+    padding-top: 40px;
+    border-right: 1px solid lightgray;
+    background-color: rgba(255, 255, 255, 0.164);
+    display: flex;
+    gap: 20px;
+    font-style: italic;
+    font-weight: 600;
+  }   
+  
+   
+  
+   .navlink {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+  }
+  
+  .active {
+    color: black;
+    
+  } 
+  
+   .navlink:hover {
+    background-color: rgba(1, 137, 191, 0.7);
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+  } 
+  
+  .navlink:active {
+    color: white;
+    background-color: rgba(1, 137, 191, 0.7);
+  }
+  
+  
+  .main {
+    margin-left: 160px; 
+    font-size: 28px;
+    padding: 0 10px;
+  }
+  .main-nav {
+    background-color: red;
+  }
+  
+  
+  
+  
+  
+  
+  
+  ul, li {
+    display: flex;
+  
+  }
+  

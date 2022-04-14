@@ -1,0 +1,73 @@
+.Home {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    background-image: url('https://thumbs.dreamstime.com/b/medicine-healthcare-concept-doctor-stethoscope-clinic-close-up-global-125171698.jpg');
+    height: 100vh;
+    color: rgba(98, 0, 128, 0.932);
+    margin-top: -100px;
+    width: 100%;
+  }
+  
+  .Overlay {
+    background: rgba(159, 161, 151, 0.7);
+    overflow: hidden;
+    height: 100%;
+    z-index: 2;
+  }
+  
+  .Button {
+   
+    padding: 10px;
+    background-color: rgba(1, 137, 191, 0.7);
+    color: wheat;
+    text-decoration: none;
+  }
+  
+  .Select {
+    padding: 10px;
+    outline: none;
+    border: 1px solid white;
+    color: white;
+    background-color: rgba(1, 137, 191, 0.7);
+    text-decoration: none;
+    
+  }
+  .Home {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    background-image: url('https://thumbs.dreamstime.com/b/medicine-healthcare-concept-doctor-stethoscope-clinic-close-up-global-125171698.jpg');
+    height: 100vh;
+    color: rgba(98, 0, 128, 0.932);
+    margin-top: -100px;
+    width: 100%;
+  }
+  
+  .Overlay {
+    background: rgba(159, 161, 151, 0.7);
+    overflow: hidden;
+    height: 100%;
+    z-index: 2;
+  }
+  
+  .Button {
+   
+    padding: 10px;
+    background-color: rgba(1, 137, 191, 0.7);
+    color: wheat;
+    text-decoration: none;
+  }
+  
+  .Select {
+    padding: 10px;
+    outline: none;
+    border: 1px solid white;
+    color: white;
+    background-color: rgba(1, 137, 191, 0.7);
+    text-decoration: none;
+    
+  }
+  
