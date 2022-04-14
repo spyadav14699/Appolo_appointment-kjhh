@@ -6,13 +6,13 @@ npm install
 npm start
 ```
 also run the json server 
-npm json-server --watch db.json --port 
+- npm json-server --watch db.json --port 
 3001
 
 
 Now go to [localhost:3000](http://localhost:3000) in your browser.
 
-<!-- Test -->
+
 
 
 ## Built With
